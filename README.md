@@ -1,1 +1,2 @@
-# Zam-Zam-Restaurant-
+## Project Overview
+This project presents a modern and responsive user interface (UI) tailored for a restaurant. Developed using HTML, CSS, and JavaScript, the UI offers key features such as menu displays, reservation management, and a section for daily specials. The design is fully optimized for both desktop and mobile platforms, ensuring a consistent and seamless user experience across various devices and screen sizes.
