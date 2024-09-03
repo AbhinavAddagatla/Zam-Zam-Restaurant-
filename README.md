@@ -4,24 +4,24 @@ This project presents a modern and responsive user interface (UI) tailored for a
 ### Responsive Design
 Adapted for desktop and mobile devices, providing a smooth and intuitive user experience across all screen sizes.
 
-# Menu Display
+### Menu Display
 Dynamic and organized presentation of restaurant menus, including detailed categories and item descriptions.
 
-# Reservation System
+### Reservation System
 Interactive reservation form with user-friendly input fields and real-time validation.
 
-# Specials Section
+### Specials Section
 Eye-catching visuals and descriptions to highlight daily specials.
 
-# Interactive Elements
+### Interactive Elements
 JavaScript-powered enhancements for greater interactivity and user engagement.
 
 ## Technologies Employed
-# HTML
+### HTML
 Serves as the structural foundation of the website.
 
-# CSS
+### CSS
 Responsible for styling and layout, utilizing Flexbox and Grid to achieve responsive design.
 
-# JavaScript
+### JavaScript
 Enables interactive features, form validation, and dynamic content updates.
